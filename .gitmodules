@@ -1,9 +1,3 @@
-[submodule "themes/piko"]
-	path = themes/piko
-	url = https://github.com/slinkytoad/piko
-[submodule "ananke"]
-	path = ananke
-	url = git@github.com:slinkytoad/ananke.git
 [submodule "themes/ananke"]
 	path = themes/ananke
 	url = git@github.com:slinkytoad/ananke.git
