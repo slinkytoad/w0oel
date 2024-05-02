@@ -1,1 +1,19 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/"><channel><title>Images on W0OEL</title><link>http://localhost:1313/tags/images/</link><description>Recent content in Images on W0OEL</description><image><url>http://localhost:1313/uploads/og.webp</url><link>http://localhost:1313/uploads/og.webp</link></image><generator>Hugo -- gohugo.io</generator><language>en-us</language><copyright>A template by [Heksagon](https://www.heksagon.net "Your most friendly developer")</copyright><lastBuildDate>Sat, 05 Mar 2022 00:00:00 +0000</lastBuildDate><atom:link href="http://localhost:1313/tags/images/index.xml" rel="self" type="application/rss+xml"/><item><title>Adding Images</title><link>http://localhost:1313/blog/images/</link><pubDate>Sat, 05 Mar 2022 00:00:00 +0000</pubDate><guid>http://localhost:1313/blog/images/</guid><description>Guide to adding images in Piko theme</description></item></channel></rss>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Images on Ananke</title>
+    <link>http://localhost:1313/tags/images/</link>
+    <description>Recent content in Images on Ananke</description>
+    <generator>Hugo</generator>
+    <language>en</language>
+    <lastBuildDate>Sat, 05 Mar 2022 00:00:00 +0000</lastBuildDate>
+    <atom:link href="http://localhost:1313/tags/images/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Adding Images</title>
+      <link>http://localhost:1313/post/images/</link>
+      <pubDate>Sat, 05 Mar 2022 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/post/images/</guid>
+      <description>To add images you can use the following syntax:&#xA;![This where you put the alt information](/uploads/self.webp) To add title, use the following syntax (&amp;lt;figure&amp;gt; element will be generated with &amp;lt;figcaption&amp;gt;):&#xA;![This where you put the alt information](/uploads/self.webp &amp;#34;This is where you put the title&amp;#34;) Or from external sources:&#xA;![This is where you put the alt](https://images.unsplash.com/photo-1520085601670-ee14aa5fa3e8 &amp;#34;This is the image title&amp;#34;) </description>
+    </item>
+  </channel>
+</rss>
